@@ -4,7 +4,7 @@ This document contains some helpful hints for using [`XO`](https://github.com/si
 
 ## Import and Use the XO WebStorm Code Style
 
-This repository includes a [WebStorm code style](https://raw.githubusercontent.com/jamestalmage/xo-with-webstorm/master/.editorconfig) for `XO`. Just [download it](https://raw.githubusercontent.com/jamestalmage/xo-with-webstorm/master/.editorconfig) anywhere on your desktop, and then import it in the WebStorm preferences.
+This repository includes a [WebStorm code style](https://github.com/JuanMaRuiz/xo-with-webstorm/blob/master/webstorm-xo-codestyle.xml) for `XO`. Just [download it](https://github.com/JuanMaRuiz/xo-with-webstorm/blob/master/webstorm-xo-codestyle.xml) anywhere on your desktop, and then import it in the WebStorm preferences.
 
 ![](https://raw.githubusercontent.com/jamestalmage/xo-with-webstorm/master/images/import-code-style.png)
 
